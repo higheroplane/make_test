@@ -4,5 +4,6 @@
 
 ```
 git clone git@github.com:higheroplane/make_test.git
+cd make_test
 make
 ```
